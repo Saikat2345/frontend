@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import NutritionAnalyzer from './components/NutritionAnalyzer'
+import NutritionAnalyzer from './components/NutritionAnalyzer';
 import NutritionHero from './components/NeutriHero'
 import { Routes,Route } from 'react-router-dom'
 import './App.css'
